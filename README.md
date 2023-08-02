@@ -3,7 +3,7 @@
 该仓库是第63组成员project完成的合集，每个project均单个文 件、压缩包的形式呈现，力求清晰明了地呈现各项目的完成情况。  
 
 ## 1.小组成员及各项目的分工  
-韩天昊-202100460051：负责project1,project2,project3,project4,
+韩天豪-202100460051：负责project1,project2,project3,project4,
 project5  
 冯咨瑜-202100460052：负责proect18,project21,project22  
 李秉穆-202100460031：负责project11,project14  
