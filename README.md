@@ -20,7 +20,7 @@ project5
    Project14:  Implement a PGP scheme with SM2，利用国密标准构建PGP模式，采用SM2完成密钥的加密，采用SM4完成消息的加密
    Project17:  比较Firefox和谷歌的记住密码插件的实现区别，比较了Firefox lockbox和chrome密码管理器记住密码插件的实现区别
    Project18:  send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself ,利用BitCoin库完成比特币交易的流程  
-   Project19:   forge a signature to pretend that you are Satoshi, 仅实现了ECDSA签名算法，攻击验证尚未完成 
+   Project19:   forge a signature to pretend that you are Satoshi, 仅实现了ECDSA签名算法，攻击验证尚未完成      
    Project21:  Schnorr Bacth, 完成了聚合公钥等关键步骤，高效实现了Schnor Batching  
    Project22:  research report on MPT，完成了MPT结构的实现与计算验证  
 
