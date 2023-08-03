@@ -15,7 +15,7 @@ project5
    Project3:  implement length extension attack for SM3, SHA256, etc，对国密标准SM3进行了长度扩展攻击的尝试  
    Project4:  do your best to optimize SM3 implementation (software)，使用openssl优化了SM3的算法，完成了并行计算，数据对齐等操作  
    Project5:  Impl Merkle Tree following RFC6962，构造了Merkle Tree并给出了Merkle Tree的根哈希值  
-   Project9:  AES / SM4 software implementation，AES / SM4 算法分析，软件实现
+   Project9:  AES / SM4 software implementation，AES / SM4 算法分析，软件实现  
    Project11:   impl sm2 with RFC6979,利用gmssl库完成了SM2国密标准中公钥加解密，消息认证的操作  
    Project14:  Implement a PGP scheme with SM2，利用国密标准构建PGP模式，采用SM2完成密钥的加密，采用SM4完成消息的加密
    Project17:  比较Firefox和谷歌的记住密码插件的实现区别，比较了Firefox lockbox和chrome密码管理器记住密码插件的实现区别
