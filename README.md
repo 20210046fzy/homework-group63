@@ -6,8 +6,8 @@
 韩天豪-202100460051：负责project1,project2,project3,project4,
 project5  
 冯咨瑜-202100460052：负责proect18,project21,project22  
-李秉穆-202100460031：负责project11,project14  
-晏坤-202100460138: 负责project13
+李秉穆-202100460031：负责project11,project13，project14  
+晏坤-202100460138: 负责project9，project17，project19
 
 ## 2.项目完成情况
    Project1:  implement the naïve birthday attack of reduced SM3，完成了对SM3的生日攻击  
